@@ -84,7 +84,19 @@ sumit chakrobarty
  
 diff file1 file2
 ## OUTPUT
-
+```
+--- file1
++++ file2
+@@ -1,4 +1,6 @@
+-chanchal singhvi
++anil aggarwal
++barun sengupta
+ c.k. shukla
++lalit chowdury
+ s.n. dasgupta
+-sumit chakrobarty
++
+```
 
 #Filters
 
