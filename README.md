@@ -120,7 +120,10 @@ cat > file22
 cut -c1-3 file11
 ## OUTPUT
 
-
+```
+Hel
+Thi
+```
 
 
 cut -d "|" -f 1 file22
