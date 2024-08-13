@@ -70,7 +70,17 @@ comm file1 file2
  file1 file2 differ: char 1, line 1
 ```
  ## OUTPUT
-
+```
+        anil aggarwal
+        barun sengupta
+        c.k. shukla
+chanchal singhvi
+c.k. shukla
+        lalit chowdury
+                s.n. dasgupta
+ 
+sumit chakrobarty
+```
  
 diff file1 file2
 ## OUTPUT
