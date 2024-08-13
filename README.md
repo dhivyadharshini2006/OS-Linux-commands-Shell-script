@@ -65,7 +65,9 @@ s.n. dasgupta
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
+```
  file1 file2 differ: char 1, line 1
+```
 comm file1 file2
  ## OUTPUT
 
